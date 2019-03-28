@@ -5,4 +5,6 @@
 <div align="center">
 <img src='pic/NLP-机器学习.jpeg' height="130" width="100">
 </div>
-- QQ: 696165031
+
+- QQ
+696165031
